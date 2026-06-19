@@ -1,2 +1,7 @@
-# learn-git
-a test to learn git 
+# Learn about git and github
+
+complete the course 
+
+```javascript 
+console.log("Hi")
+```
